@@ -1,0 +1,15 @@
+@import '../common/variables.scss';
+
+.link{
+    display: block;
+    text-decoration: none;
+    padding: 1rem;
+
+    &--nav{
+        @extend .link;
+        color: $alice-blue;
+        font-size: 1.5rem;
+    }
+}
+
+

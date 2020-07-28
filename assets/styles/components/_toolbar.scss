@@ -1,0 +1,9 @@
+@import '../common/variables.scss';
+
+
+.toolbar{
+    width: 100%;
+    background-color: $patrick-blue;
+    display: flex;
+    justify-content: flex-end;
+}

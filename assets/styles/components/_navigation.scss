@@ -1,0 +1,10 @@
+.navigation{
+
+    &__list{
+        display: flex ;
+    }
+
+    &__item{
+        list-style: none;
+    }
+}
