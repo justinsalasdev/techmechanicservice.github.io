@@ -1,1 +1,0 @@
-# techmechanicservice.github.io
